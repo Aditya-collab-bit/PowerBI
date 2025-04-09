@@ -1,2 +1,2 @@
-# PowerBI
-Here all my powerbi projects for data analysis 
+# Sales-Performance-Dashboard
+Interactive Power BI dashboard for sales analysis
